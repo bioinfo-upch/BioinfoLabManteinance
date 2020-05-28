@@ -1,2 +1,2 @@
 # BioinfoLabServers_Manteinance
-Bash scripts to automatize the set up of the Zimic-Sheen laboratory.
+Bash scripts to automatize the set up Zimic-Sheen laboratory servers.
